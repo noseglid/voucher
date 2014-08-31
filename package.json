@@ -1,6 +1,6 @@
 {
   "name": "voucher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert asynchronous function calls with callbacks to es6 promises",
   "main": "index.js",
   "scripts": {
