@@ -1,0 +1,27 @@
+{
+  "name": "voucher",
+  "version": "0.1.0",
+  "description": "Convert asynchronous function calls with callbacks to es6 promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noseglid/voucher"
+  },
+  "keywords": [
+    "promise",
+    "es6",
+    "wrapper"
+  ],
+  "author": "Alexander Olsson <noseglid@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noseglid/voucher/issues"
+  },
+  "homepage": "https://github.com/noseglid/voucher",
+  "dependencies": {
+    "es6-promise": "^1.0.0"
+  }
+}
